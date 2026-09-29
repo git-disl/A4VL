@@ -1,6 +1,6 @@
 # A4VL
 
-Official implementation for our CVPR'26 paper A Multi-Agent Perception-Action Alliance for Efficient Long Video Reasoning.
+Official implementation for our CVPR'26 paper [A Multi-Agent Perception-Action Alliance for Efficient Long Video Reasoning](https://arxiv.org/abs/2603.14052).
 
 ## Required environment (py39)
 - Python `3.9.19`
